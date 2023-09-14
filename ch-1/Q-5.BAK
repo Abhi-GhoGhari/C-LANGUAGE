@@ -1,0 +1,11 @@
+#include<stdio.h>
+#include<conio.h>
+
+main()
+{
+	clrscr();
+	printf("MY NAME        =GHOGHARI ABHI DIPAKBHAI");
+	printf("MY AGE         =17");
+	printf("MY SCHOOL NAME =ASHADEEP GRUP OF SCHOOL-4Q");
+	getch();
+}
